@@ -1,0 +1,5 @@
+
+ API with endpoint: "/alluser" and method "GET" at this time: "12:07:55 PM"
+ API with endpoint: "/alluser" and method "GET" at this time: "12:07:55 PM"
+ API with endpoint: "/getoneUser/1" and method "GET" at this time: "12:07:55 PM"
+ API with endpoint: "/getoneUser/1" and method "GET" at this time: "10:16:05 AM"
